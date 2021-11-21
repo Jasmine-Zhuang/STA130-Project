@@ -1,4 +1,4 @@
-
+---
 title: "Analysis of Annual Average Spending on Dining at the RCYC’s restaurants in the city of Toronto (mainland) for 2017"
 # subtitle: "Group 44"
 author: "Haojun Qiu, Jasmine Zhuang, Junru Lin, Xiaoqi Liu -- Group 44"
